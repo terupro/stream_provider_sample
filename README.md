@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## Image
+<img src="https://user-images.githubusercontent.com/92189386/169760015-d812a614-14b3-4820-8cd8-fef87b8d43ad.gif" width="300">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
